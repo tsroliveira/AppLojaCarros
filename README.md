@@ -49,7 +49,7 @@
    ```sh
    cd .\AppLojaCarros\web\
    ```
-7. Instale as dependencias do projeto.
+7. Instale as dependencias do projeto FrontEnd.
    ```sh
    npm install
    ```
