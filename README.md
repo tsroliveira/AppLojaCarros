@@ -10,11 +10,11 @@
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/tsroliveira/LojaDeCarros.git
+   git clone https://github.com/tsroliveira/AppLojaCarros.git
    ```
 2. Configurando o Backend Laravel:
    ```sh
-   cd .\api\
+   cd .\AppLojaCarros\api\
    composer install
    cp .env.example .env
    ```
@@ -27,15 +27,24 @@
    DB_USERNAME=root
    DB_PASSWORD=root
    ```
-4. Execute as migrations para criar as tabelas e o banco de dados "carros".
+4. Execute as migrations para criar o banco de dados "carros" e as tabelas
    ```sh
    php artisan key:generate
    php artisan migrate --seed
    ```
-
-   php artisan make:seeder DatabaseSeeder
-   
-   
-
+5. Inicialize a aplicação backend 
+   ```sh
    php artisan serve
+   ```
+
+6. Navege até a pasta do FrontEnd
+   ```sh
+   cd ..\web\
+   ```
+7. Execute os comandos abaixo
+   ```sh
+   npm install
+   npm start
+
    
+
