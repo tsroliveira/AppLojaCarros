@@ -8,7 +8,7 @@
 
 ## Instalação
 
-1. Clone o repositório.
+1. Clone o repositório AppLojaCarros.
    ```sh
    git clone https://github.com/tsroliveira/AppLojaCarros.git
    ```
