@@ -10,7 +10,7 @@
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/tsroliveira/LojaDeCarros.git
+   git clone https://github.com/tsroliveira/AppLojaCarros.git
    ```
 2. Configurando o Backend Laravel:
    ```sh
