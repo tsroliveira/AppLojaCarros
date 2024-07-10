@@ -112,9 +112,9 @@ const ProductCreate = () => {
       .catch(error => console.error('Houve um erro ao cadastrar o carro!', error));
   };
 
-  const handleBack = () => {
+  /*const handleBack = () => {
     navigate('/');
-  };
+  };*/
 
   const handleFileChange = (e) => {
     setSelectedFile(e.target.files[0]);

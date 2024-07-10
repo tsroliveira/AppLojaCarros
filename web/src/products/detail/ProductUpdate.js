@@ -115,9 +115,9 @@ const ProductUpdate = () => {
     }
   };
   
-  const handleBack = () => {
+  /*const handleBack = () => {
     navigate('/');
-  };
+  };*/
 
   let imgSrc;
   try {
