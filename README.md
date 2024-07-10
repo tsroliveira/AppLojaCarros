@@ -12,10 +12,14 @@
    ```sh
    git clone https://github.com/tsroliveira/AppLojaCarros.git
    ```
-2. Configurando o Backend Laravel:
+2. Navegue até a pasta \api Configurando o Backend Laravel:
    ```sh
    cd .\AppLojaCarros\api\
+   ```
+   ```sh
    composer install
+   ```
+   ```sh
    cp .env.example .env
    ```
 3. Configure a conexão com o banco de dados MySql no arquivo .env
@@ -30,6 +34,8 @@
 4. Execute as migrations para criar o banco de dados "carros" e as tabelas
    ```sh
    php artisan key:generate
+   ```
+   ```sh
    php artisan migrate --seed
    ```
 5. Inicialize a aplicação backend 
@@ -44,7 +50,7 @@
 7. Execute os comandos abaixo
    ```sh
    npm install
+   ```
+   ```sh
    npm start
-
-   
-
+   ```
