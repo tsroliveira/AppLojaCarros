@@ -57,3 +57,14 @@
    ```sh
    npm start
    ```
+
+---
+## Home Sample
+![Imagem de um carro](https://github.com/tsroliveira/AppLojaCarros/raw/main/web/src/img/sample/img_1.png)
+
+## Search Page Sample
+![Imagem de um carro](https://github.com/tsroliveira/AppLojaCarros/raw/main/web/src/img/sample/img_2.png)
+
+## View Page Sample
+![Imagem de um carro](https://github.com/tsroliveira/AppLojaCarros/raw/main/web/src/img/sample/img_3.png)
+
