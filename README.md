@@ -14,7 +14,7 @@
    ```
 2. Configurando o Backend Laravel:
    ```sh
-   cd .\AppLojaCarros\
+   cd .\AppLojaCarros\api\
    composer install
    cp .env.example .env
    ```
