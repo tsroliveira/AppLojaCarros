@@ -45,7 +45,7 @@
    php artisan serve
    ```
 
-8. Navege até a pasta do FrontEnd em React.
+8. Abra uma nova janela de terminal e navege até a pasta do FrontEnd em React.
    ```sh
    cd .\AppLojaCarros\web\
    ```
