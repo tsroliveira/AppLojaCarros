@@ -8,7 +8,7 @@
 
 ## Instalação
 
-1. Clone o repositório.
+1. Clone o repositório AppLojaCarros.
    ```sh
    git clone https://github.com/tsroliveira/AppLojaCarros.git
    ```
@@ -45,11 +45,11 @@
    php artisan serve
    ```
 
-8. Navege até a pasta do FrontEnd em React.
+8. Abra uma nova janela de terminal e navege até a pasta do FrontEnd em React.
    ```sh
    cd .\AppLojaCarros\web\
    ```
-7. Instale as dependencias do projeto.
+7. Instale as dependencias do projeto FrontEnd.
    ```sh
    npm install
    ```
