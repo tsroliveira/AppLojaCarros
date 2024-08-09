@@ -7,8 +7,8 @@
 - npm
 
 -- Frontend com React para a interface WEB.
-### Backend em PHP utilizando Laravel para criar a API que servirá os dados dos veículos.
-### Banco de Dados MySQL.
+#### Backend em PHP utilizando Laravel para criar a API que servirá os dados dos veículos.
+* Banco de Dados MySQL.
 
 ## Instalação
 
